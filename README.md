@@ -9,13 +9,9 @@
 
 ## Sobre mi
 
-- ⭐ Github Star ⭐ 
-- 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+62k subs)
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
-<br>
+- ⭐ Github Star ⭐
+- 🌐 Web Developer | 📲 Mobile first
+- 🎥 Diseño páginas web robustas y escalables
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -61,9 +57,9 @@
 
 
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-    <img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=pedroangelbl&show_icons=true&theme=transparent"/>
-    <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroangelbl&layout=compact&&langs_count=8"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pedroangelbl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedroangelbl&layout=compact&langs_count=8&theme=algolia"/>
 </p>
