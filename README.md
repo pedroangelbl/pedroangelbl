@@ -64,5 +64,5 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  [![pedroangelbl's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroangelbl)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroangelbl)](https://github.com/pedroangelbl/github-readme-stats)
 </p>
