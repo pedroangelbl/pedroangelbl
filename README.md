@@ -64,5 +64,6 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroangelbl)](https://github.com/pedroangelbl/github-readme-stats)
+    <img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=pedroangelbl&show_icons=true&theme=transparent"/>
+    <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroangelbl&layout=compact&&langs_count=8"/>
 </p>
