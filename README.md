@@ -2,6 +2,31 @@
   <h1 align="center">Hola, soy <a href="https://aristi.dev">Pedro Ángel</a> 👋</h1>
 </div>
 <!-- Banner -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 500">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00b4d8;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#6930c3;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Fondo con circuitos -->
+  <rect width="100%" height="100%" fill="#0a192f" />
+  <path d="M0,250 Q750,100 1500,250" stroke="#1e4d8c" fill="none" stroke-width="2" opacity="0.3"/>
+  
+  <!-- Nombre -->
+  <text x="50%" y="45%" text-anchor="middle" font-family="Roboto Mono" font-size="60" fill="url(#gradient)">
+    @pedroangelbl
+  </text>
+  
+  <!-- Frase -->
+  <text x="50%" y="60%" text-anchor="middle" font-family="Poppins" font-size="30" fill="#ccd6f6">
+    Building the web with passion
+  </text>
+  
+  <!-- Íconos (ej: HTML/CSS/JS) -->
+  <image x="1300" y="380" href="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="60" height="60"/>
+</svg>
 
 <!-- Badges redes sociales -->
 
