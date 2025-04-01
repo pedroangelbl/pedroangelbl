@@ -2,7 +2,7 @@
   <h1 align="center">Hola, soy <a href="https://aristi.dev">Pedro Ángel</a> 👋</h1>
 </div>
 <!-- Banner -->
-
+<img src="./banner_pedroangelbl.png"></img>
 
 <!-- Badges redes sociales -->
 
