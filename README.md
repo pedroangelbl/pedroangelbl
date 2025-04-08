@@ -10,7 +10,6 @@
 
 ## Sobre mi
 
-- ⭐ Github Star ⭐
 - 🌐 Web Developer | 📲 Mobile first
 - 💻 Diseño páginas web robustas y escalables
 - Actualmente trabajando para Studio128k
